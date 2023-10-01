@@ -20,10 +20,11 @@ Make sure you have an internet connection to load these resources when you open 
 # Folder Structure
 The project directory is organized as follows:
 
-index.html: The main HTML file for the website.
-index.css: The stylesheet that defines the website's appearance.
-favicon/: Directory containing the website's favicon.
-scrollreveal/: Directory for the ScrollReveal JavaScript library.
+index.html: The main HTML file for the website.<br>
+index.css: The stylesheet that defines the website's appearance.<br>
+favicon/: Directory containing the website's favicon.<br>
+scrollreveal/: Directory for the ScrollReveal JavaScript library.<br>
+
 # Contributing
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
 
