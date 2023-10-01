@@ -21,7 +21,7 @@ This project utilizes the following external resources:
   
 Make sure you have an internet connection to load these resources when you open the website.
 # Javascript Library for animation
-    <script src="https://unpkg.com/scrollreveal"></script><br>
+    <script src="https://unpkg.com/scrollreveal"></script>
     
 # Folder Structure
 The project directory is organized as follows:
