@@ -4,6 +4,10 @@ This is a simple website project for Honey Website Design. It includes HTML, CSS
 
 To get started with this project, simply download or clone the repository to your local machine. Open the `index.html` file in a web browser to view the website.
 
+```shell
+git clone https://github.com/MuhammadBilal0111/Honey-Website-Clone.git
+cd Honey-Website-Clone
+```
 # External Resources
 This project utilizes the following external resources:
 
