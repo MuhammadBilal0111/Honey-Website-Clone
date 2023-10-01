@@ -18,9 +18,11 @@ This project utilizes the following external resources:
 # Google Fonts - Poppins: 
   A font used for styling text on the website.
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;800&display=swap" rel="stylesheet">
+  
 Make sure you have an internet connection to load these resources when you open the website.
 # Javascript Library for animation
     <script src="https://unpkg.com/scrollreveal"></script><br>
+    
 # Folder Structure
 The project directory is organized as follows:
 
