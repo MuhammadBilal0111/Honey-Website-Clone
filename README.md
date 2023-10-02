@@ -13,9 +13,9 @@ This project utilizes the following external resources:
 
 # Boxicons: 
   Icon library for various icons used in the project.
-     ```shell
+```shell
      <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
-    ```
+```
 # Google Fonts - Poppins: 
   A font used for styling text on the website.
 ```shell
@@ -24,9 +24,9 @@ This project utilizes the following external resources:
   
 Make sure you have an internet connection to load these resources when you open the website.
 # Javascript Library for animation
-    ```shell
+```shell
     <script src="https://unpkg.com/scrollreveal"></script>
-    ```
+```
 # Folder Structure
 The project directory is organized as follows:
 
