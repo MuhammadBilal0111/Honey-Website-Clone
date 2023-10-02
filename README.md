@@ -74,6 +74,6 @@ Muhammad Bilal
 ```shell
 m.bilal0111@gmail.com
 ```
-Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or create a pull request
+Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or create a pull request.<br>
 This README provides clear and organized information for anyone interested in contributing to or working with your project.
 
